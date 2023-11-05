@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from San Diego California<br><br>- 🔭 I’m currently working on Zenora<br>- 📚 I'm currently learning Python</p>
+<p align="left">I'm from San Diego, California<br><br>- 🔭 I’m currently working on Zenora<br>- 📚 I'm currently learning Python</p>
 
 ###
 
