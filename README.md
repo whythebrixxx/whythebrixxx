@@ -48,6 +48,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=whythebrixxx&theme=dark&hide_border=false" height="220" alt="streak graph"  />
+</div>
 
 ###
